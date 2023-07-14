@@ -14,7 +14,7 @@ spring:
     port: 6379 # Redis服务器连接端口
     password: #不设置密码
   rabbitmq:
-    host: rabbit
+    host: rabbitmq
     port: 5672
     virtual-host: /mall
     username: mall
